@@ -1,2 +1,2 @@
-# sample
-This is a sample!!
+# Alcyone Website
+This is Alcyone's Official Website!!
